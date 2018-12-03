@@ -1,0 +1,5 @@
+./files/tempA/tempAA1
+./files/tempA/tempAA2
+./files/tempB/tempBB
+./files/tempC
+./files/tempD/tempDD/tempDDD
